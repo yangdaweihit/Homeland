@@ -1,0 +1,3469 @@
+5
+00:00:10,000 --> 00:00:15,000
+{\an4}本字幕由ZiMuZu原创翻译
+最新下载请登录www.ZiMuZu.tv
+
+6
+00:00:15,000 --> 00:00:20,000
+{\an4}{\pos(70,211.2)}打开微信   扫描左侧二维码
+或搜索公众号:    ustvboom
+了解最新影视字幕发布信息
+
+11
+00:09:37,010 --> 00:10:17,130
+{\an5}{\pos(338,27)}最新美剧下载
+www.ZiMuZu.tv
+
+16
+00:01:23,010 --> 00:01:27,000
+{\pos(190,268)}翻译：二川    女主很疯很爱笑    夜潇湘    小跟班    wdjmhs
+
+18
+00:01:28,010 --> 00:01:32,000
+{\pos(190,268)}翻译：饿得慌    zhanginfo            时间轴：Poxle    紫薰    三水
+
+20
+00:01:33,010 --> 00:01:37,000
+{\pos(190,268)}校对：zhanginfo      吃货丁小七       wdjmhs
+
+22
+00:01:38,010 --> 00:01:42,000
+{\pos(190,268)}后期：渔夫      精校：wdjmhs      字幕总监制：wdjmhs
+
+24
+00:01:51,620 --> 00:01:52,600
+{\pos(134.4,131.2)}国 土 安 全
+
+25
+00:01:51,620 --> 00:01:52,600
+{\pos(153,160)}第五季  第四集
+
+26
+00:01:52,600 --> 00:01:54,410
+{\pos(134.4,131.2)}国 土 安 全
+
+27
+00:01:52,600 --> 00:01:54,410
+{\pos(153,160)}第五季  第四集
+
+28
+00:00:01,180 --> 00:00:03,030
+《国土安全》前情提要
+Previously on Homeland...
+
+29
+00:00:03,030 --> 00:00:03,890
+你看看她
+Look at her.
+
+30
+00:00:03,890 --> 00:00:06,270
+她会因此发大财的  我们怎么不自己干
+She's getting rich out of this. Why not us?
+
+31
+00:00:06,270 --> 00:00:07,700
+情报是免费的
+Information's for free.
+
+32
+00:00:08,190 --> 00:00:09,890
+有个生意机会给你
+There's a business opportunity for you.
+
+33
+00:00:10,020 --> 00:00:11,200
+我有东西要卖
+Something for sale.
+
+34
+00:00:11,200 --> 00:00:13,870
+文件  绝密
+Documents. Top secret.
+
+35
+00:00:14,970 --> 00:00:16,100
+美国的
+American.
+
+36
+00:00:16,100 --> 00:00:18,400
+我先审一下  然后就发出来
+I'll vet them and get them out just like last time.
+
+37
+00:00:19,730 --> 00:00:20,910
+我怎么联系你
+How can I reach you?
+
+38
+00:00:21,120 --> 00:00:22,260
+你不能
+You can't.
+
+39
+00:00:26,860 --> 00:00:28,700
+你个混蛋
+You little fucker.
+
+40
+00:00:28,700 --> 00:00:31,810
+我们是老朋友了  索尔  你应该知道
+We're old friends, Saul, so you should know something.
+
+41
+00:00:31,990 --> 00:00:34,170
+我的政府坚决反对
+My government will actively oppose
+
+42
+00:00:34,170 --> 00:00:36,520
+任何在在大马士革进行权力变更的计划
+any plans for regime change in damascus.
+
+43
+00:00:36,530 --> 00:00:37,440
+我们已经不干
+We're out of the business
+
+44
+00:00:37,440 --> 00:00:39,580
+推翻阿拉伯独裁者的事了  因泰
+of overthrowing Arab dictators, Etai.
+
+45
+00:00:39,590 --> 00:00:41,300
+我们可以行动了
+We have a green light.
+
+46
+00:00:41,300 --> 00:00:43,110
+你觉得他们的情报有多详尽
+How detailed is their intelligence?
+
+47
+00:00:43,110 --> 00:00:45,040
+他们知道目标是阿萨德
+They know Assad is in the crosshairs.
+
+48
+00:00:45,410 --> 00:00:47,840
+知道我们有候选人可以取代他
+They know we have a likely candidate to replace him.
+
+49
+00:00:47,840 --> 00:00:50,780
+是中情局那个女的  她是目标  
+It was the CIA woman. She was the target.
+
+50
+00:00:50,780 --> 00:00:52,410
+有人要你死
+Someone wants you dead.
+
+51
+00:00:52,640 --> 00:00:54,820
+我不知道我能不能让她坐上明天的飞机
+I don't know if I can put her on that plane tomorrow.
+
+52
+00:00:54,820 --> 00:00:55,980
+怎么不跟她一起走
+Why not go with her?
+
+53
+00:00:55,980 --> 00:00:58,310
+那样还不如让她留在这里安全
+If I do that, she's no safer than she is here.
+
+54
+00:00:58,410 --> 00:01:00,670
+不会再有支援  你不再是局里的人
+You'll get no support, you'll be out of the agency.
+
+55
+00:01:00,970 --> 00:01:02,560
+从今天开始不要再联系
+No contact from today.
+
+56
+00:01:03,030 --> 00:01:05,530
+你只有那把钥匙  下一个目标在盒子里
+All you'll get is that key, your next target in the box,
+
+57
+00:01:05,530 --> 00:01:06,800
+等你带着她死亡的证据回来
+and operating money waiting there
+
+58
+00:01:06,800 --> 00:01:08,590
+就可以拿到报酬
+when you bring back proof of death.
+
+59
+00:01:07,500 --> 00:01:08,590
+{\pos(153,204.8)}麦吉森
+
+60
+00:01:09,590 --> 00:01:10,230
+我们得走了
+We have to go.
+
+61
+00:01:10,230 --> 00:01:10,990
+马上离开
+We have to go right now.
+
+62
+00:01:10,990 --> 00:01:12,940
+-他们已经在来的路上了  -谁
+- They're already on their way. - Who is?
+
+63
+00:01:12,940 --> 00:01:14,150
+我是说
+I am saying that whoever
+
+64
+00:01:14,150 --> 00:01:16,350
+要杀我的人马上就到了
+is trying to kill me is coming here!
+
+65
+00:01:18,320 --> 00:01:19,250
+卡莉
+Carrie?!
+
+66
+00:01:19,250 --> 00:01:21,070
+见鬼  你在哪
+Goddamn it! Where are you?!
+
+67
+00:01:58,040 --> 00:02:00,700
+老天  我还真以为已经摆脱这种生活了
+Christ, I really thought I left all this behind.
+
+68
+00:02:01,210 --> 00:02:03,640
+伊斯兰国极端组织宣布建立
+The Islamic State ISIS proclaimed itself
+
+69
+00:02:03,640 --> 00:02:06,420
+全球性哈里发国  势力范围...
+to be a worldwide caliphate with authority over...
+
+70
+00:02:06,420 --> 00:02:08,600
+重绘了中东地图
+...Redraw the map in the middle east.
+
+71
+00:02:11,570 --> 00:02:12,940
+黑客成了士兵
+The soldiers are hackers,
+
+72
+00:02:12,940 --> 00:02:14,440
+网络就是战场
+the battlefield is online,
+
+73
+00:02:14,440 --> 00:02:15,460
+这不是关乎于...
+And it's not a matter of...
+
+74
+00:02:15,460 --> 00:02:17,780
+爱德华·斯诺登是个懦夫
+Edward Snowden is a coward.
+
+75
+00:02:17,890 --> 00:02:20,190
+令我极其失望的是  俄罗斯政府
+...Extremely disappointed that the Russian government
+
+76
+00:02:20,200 --> 00:02:21,850
+将采取这一措施
+would take this step.
+
+77
+00:02:22,960 --> 00:02:25,730
+这是违法的  这他妈是违法的
+It's against the law, it's against the fucking law.
+
+78
+00:02:28,960 --> 00:02:31,120
+吃了这么多苦  还是什么都改变不了
+All that suffering, and nothing changes.
+
+79
+00:02:34,100 --> 00:02:36,030
+我们的策略奏效了吗
+Is our strategy working?
+
+80
+00:02:44,430 --> 00:02:47,550
+我之前竟然还说服自己我们能改变世界
+I actually convinced myself we were gonna change the world.
+
+81
+00:02:52,230 --> 00:02:53,840
+卡莉永远都无法获得自由
+Carrie will never be free.
+
+82
+00:02:55,430 --> 00:02:57,750
+过着逃亡的生活  放弃我女儿吗
+Spend my life on the run, give up my daughter?
+
+83
+00:02:59,050 --> 00:03:01,150
+我不知道你的良心怎么过得去
+I don't know how you live with yourself.
+
+84
+00:03:02,130 --> 00:03:04,580
+我会跟你抗争到底
+I will fight you forever.
+
+85
+00:03:06,880 --> 00:03:08,040
+谁在追我
+Who's after me?
+
+86
+00:03:08,790 --> 00:03:11,360
+死了这么多人  你手上沾满了鲜血
+So many people, so much blood on your hands.
+
+87
+00:03:46,670 --> 00:03:49,690
+我们吃苦菜  这种苦味之草
+We eat maror, the bitter herb,
+
+88
+00:03:49,790 --> 00:03:52,540
+来提醒自己不要忘记祖先们
+to remind us of the bitterness of slavery
+
+89
+00:03:52,540 --> 00:03:54,980
+曾在埃及遭受奴役之苦
+our ancestors endured in Egypt.
+
+90
+00:03:56,230 --> 00:03:57,480
+而我们
+And for us,
+
+91
+00:03:58,420 --> 00:04:00,340
+我的亲朋好友们
+my family, my friends,
+
+92
+00:04:00,460 --> 00:04:03,320
+在德国欢聚逾越节家宴
+celebrating this Seder in Germany.
+
+93
+00:04:04,050 --> 00:04:05,930
+我们一定要记住
+It is important to remember
+
+94
+00:04:05,930 --> 00:04:11,910
+仅在七十年前  我们在这里遭受的暴政
+the slavery we endured under a tyrant worse than pharaoh
+
+95
+00:04:11,910 --> 00:04:15,420
+比法老更加残暴
+only 70 years ago in this land.
+
+96
+00:04:16,640 --> 00:04:18,910
+在我们每日走过的街道上
+On the streets where we walk every day,
+
+97
+00:04:19,890 --> 00:04:23,700
+我们父辈和祖辈却要佩戴犹太徽章
+our parents and our grandparents wore yellow stars.
+
+98
+00:04:27,000 --> 00:04:29,000
+让我们默哀片刻
+Let's take a moment to remember.
+
+99
+00:04:34,720 --> 00:04:36,800
+我们还要记住那些遍布全球  
+And let's remember the enemies we still have
+
+100
+00:04:36,810 --> 00:04:40,480
+想要毁灭我们的敌人们 
+all over the world who wish to destroy us.
+
+101
+00:04:42,120 --> 00:04:44,480
+我们祈祷拥有战胜他们的力量
+We pray for the strength to defeat them.
+
+102
+00:05:28,920 --> 00:05:30,000
+奎恩
+Quinn.
+
+103
+00:05:30,000 --> 00:05:31,260
+谢天谢地
+Oh, thank god.
+
+104
+00:05:37,620 --> 00:05:38,690
+奎恩
+Quinn?
+
+105
+00:05:42,370 --> 00:05:43,770
+奎恩  给我松绑
+Quinn, untie me.
+
+106
+00:05:47,300 --> 00:05:49,310
+奎恩  这他妈是怎么回事
+Quinn, what the fuck is going on?
+
+107
+00:05:50,720 --> 00:05:52,370
+你上了暗杀名单
+Your name's on a kill list.
+
+108
+00:05:53,130 --> 00:05:53,680
+我知道
+I-I know.
+
+109
+00:05:53,680 --> 00:05:55,330
+所以我才想不明白
+I-I can't figure it out.
+
+110
+00:05:56,760 --> 00:05:58,360
+你肯定干了什么勾当
+Well, you must have done something.
+
+111
+00:05:59,590 --> 00:06:01,080
+惹毛了什么人
+Pissed off somebody,
+
+112
+00:06:01,410 --> 00:06:03,010
+触碰了什么底线
+crossed a line somewhere.
+
+113
+00:06:04,390 --> 00:06:05,480
+奎恩  奎恩  不要
+Quinn, Quinn, Quinn, no.
+
+114
+00:06:05,480 --> 00:06:07,610
+-不要动  卡莉  -求你了  求求你
+- Don't move, Carrie. - Please. Please! Please! Please!
+
+115
+00:06:07,610 --> 00:06:09,400
+-别动  -不
+- Stop moving, Carrie. - No.
+
+116
+00:06:19,330 --> 00:06:20,240
+我什么也没做
+I-I didn't do anything.
+
+117
+00:06:20,240 --> 00:06:21,880
+不知道这是怎么回事
+I have no idea where this is coming from.
+
+118
+00:06:21,880 --> 00:06:23,510
+我发誓无论达尔·阿德尔说了什么  
+I swear, no matter what Dar Adal said,
+
+119
+00:06:23,510 --> 00:06:24,090
+我都没...
+I did not...
+
+120
+00:06:24,090 --> 00:06:25,270
+不是他
+Not him.
+
+121
+00:06:26,100 --> 00:06:27,170
+是索尔
+Saul.
+
+122
+00:06:28,060 --> 00:06:29,810
+索尔在名单上写了你的名字
+Saul put your name on the list.
+
+123
+00:06:30,480 --> 00:06:31,660
+索尔
+Saul?
+
+124
+00:06:31,970 --> 00:06:33,170
+闭上眼
+Close your eyes.
+
+125
+00:06:35,910 --> 00:06:37,130
+我不信
+I don't believe it.
+
+126
+00:06:37,380 --> 00:06:38,490
+你得信
+Believe it.
+
+127
+00:06:39,220 --> 00:06:40,650
+先装个死相
+Now play fucking dead.
+
+128
+00:06:43,330 --> 00:06:44,450
+好吧
+All right.
+
+129
+00:07:01,010 --> 00:07:02,850
+赶紧  还有事做
+Hurry up. We got shit to do.
+
+130
+00:07:03,920 --> 00:07:05,330
+什么事
+What exactly?
+
+131
+00:07:10,060 --> 00:07:12,060
+你的撤退方案  可以启动了  
+Your fallback plan-- time to execute it.
+
+132
+00:07:12,370 --> 00:07:13,980
+我没撤退方案怎么办
+What if I don't have one?
+
+133
+00:07:16,480 --> 00:07:17,640
+可能是真的呢
+Could be true.
+
+134
+00:07:17,640 --> 00:07:20,390
+别废话了  卡莉  你得赶紧消失掉
+Cut the crap, Carrie. Time to disappear and 'fast.
+
+135
+00:07:20,390 --> 00:07:21,970
+照片也就能拖延一下
+This picture buys you time.
+
+136
+00:07:21,970 --> 00:07:24,550
+保持低调  他们才不会追杀你
+As long as you keep your head down, they won't come after you.
+
+137
+00:07:24,550 --> 00:07:29,090
+你和索尔的这个行动  怎么进行
+So, your operation with Saul- how does it work?
+
+138
+00:07:29,090 --> 00:07:30,250
+不重要
+Doesn't matter.
+
+139
+00:07:34,670 --> 00:07:35,760
+告诉我
+Tell me.
+
+140
+00:07:37,080 --> 00:07:39,070
+索尔提供名字  我杀人后拍照
+Saul provides a name, I provide proof of death,
+
+141
+00:07:39,070 --> 00:07:40,880
+交回邮箱  再拿新名单
+Return to the drop, get another name.
+
+142
+00:07:42,120 --> 00:07:44,990
+那你最后一次去邮箱是我的名字
+And the last time you went to the drop, you got my name?
+
+143
+00:07:45,540 --> 00:07:46,810
+和你说过了
+Told you that already.
+
+144
+00:07:48,270 --> 00:07:48,790
+为什么
+Why?
+
+145
+00:07:48,800 --> 00:07:50,800
+不知道  也不想知道
+I don't know. I don't want to know.
+
+146
+00:07:52,470 --> 00:07:53,970
+可我什么也没做
+But I didn't do anything!
+
+147
+00:07:53,970 --> 00:07:56,620
+听着卡莉  你的名字的确在邮箱里
+Listen to me, Carrie. Your name was in the box, okay'?
+
+148
+00:07:56,670 --> 00:07:58,710
+可能因为你还不知道的事情
+Probably for something you're not even aware of.
+
+149
+00:07:58,920 --> 00:08:00,640
+我知道这不好接受
+Now, I know that's hard to hear.
+
+150
+00:08:04,120 --> 00:08:05,530
+我得找索尔谈谈
+I have to talk to Saul.
+
+151
+00:08:05,570 --> 00:08:07,760
+但你得知道  他圣命难违
+For all you know, he was given a direct order.
+
+152
+00:08:08,260 --> 00:08:09,220
+什么意思
+What's your point?
+
+153
+00:08:09,220 --> 00:08:12,500
+可能有某个高层要你死
+Somebody, somewhere, likely very senior, wants you dead.
+
+154
+00:08:14,050 --> 00:08:14,920
+要是他们知道你还没死
+If they think you're not dead,
+
+155
+00:08:14,920 --> 00:08:16,890
+还会派别人来搞你的
+they're gonna send somebody to finish the job.
+
+156
+00:08:17,730 --> 00:08:19,020
+你得消失掉
+You got to disappear.
+
+157
+00:08:24,250 --> 00:08:26,140
+你向我保证说你们不打算推翻
+You assured me that there was no plot
+
+158
+00:08:26,140 --> 00:08:27,840
+巴沙尔·阿尔阿萨德政权
+to overthrow Bashar Al-Assad.
+
+159
+00:08:28,690 --> 00:08:30,180
+-确实没有  -索尔
+- There isn't. - Saul.
+
+160
+00:08:30,930 --> 00:08:32,330
+很荣幸你能光临我的逾越节宴会
+You honor me with your presence
+
+161
+00:08:32,330 --> 00:08:35,250
+所以我也会与你默契
+at my seder table, so, I'll play along.
+
+162
+00:08:36,370 --> 00:08:39,560
+如果你有取代阿萨德的计划
+If you had a plan to replace Assad,
+
+163
+00:08:39,560 --> 00:08:42,760
+我们都明白会是约瑟夫将军
+we understand that it would be with general Youssef.
+
+164
+00:08:42,830 --> 00:08:44,480
+约瑟夫是个好人选
+Youssef would be a good choice.
+
+165
+00:08:44,950 --> 00:08:46,600
+如果我们计划是那样的话
+If we had a plan like that.
+
+166
+00:08:46,980 --> 00:08:49,670
+他是阿拉维派的  阿萨德的连襟
+He's alawite, Assad's cousin by marriage.
+
+167
+00:08:49,680 --> 00:08:51,370
+他在军方有些势力
+He's popular with the military.
+
+168
+00:08:51,560 --> 00:08:52,680
+可有人说
+Well, some say he was behind
+
+169
+00:08:52,680 --> 00:08:54,940
+他是阿萨尔镇化武袭击的幕后指使
+the chemical weapons attack in Khan Al-Asal.
+
+170
+00:08:54,950 --> 00:08:56,880
+那些消息都没有证实
+Those allegations have never been confirmed.
+
+171
+00:08:56,880 --> 00:08:58,250
+那我们换个玩法吧
+Let's play another game.
+
+172
+00:08:59,700 --> 00:09:01,230
+还有其他选择吗
+What's the alternative?
+
+173
+00:09:02,720 --> 00:09:04,350
+还留着阿萨德吗
+Leave Assad in place?
+
+174
+00:09:04,780 --> 00:09:06,680
+阿拉伯人相互残杀时
+When Arabs are killing Arabs,
+
+175
+00:09:06,760 --> 00:09:08,930
+至少他们不会向以色列发起攻击
+at least they're not firing rockets at Israel.
+
+176
+00:09:09,420 --> 00:09:10,970
+对于中东的和平
+That's hardly a long-term strategy
+
+177
+00:09:10,970 --> 00:09:12,900
+这不是长久之计
+for peace in the middle east.
+
+178
+00:09:12,910 --> 00:09:15,620
+你还真以为那帮混蛋希冀和平吗
+You really think any of those murderers want peace?
+
+179
+00:09:18,720 --> 00:09:22,320
+过去你是以色列的朋友
+You used to be a good friend to Israel.
+
+180
+00:09:22,830 --> 00:09:24,520
+现在也是
+I'm still a good friend.
+
+181
+00:09:24,540 --> 00:09:26,060
+你以前做得更好
+You used to be a better one.
+
+182
+00:09:31,460 --> 00:09:32,520
+因泰
+Etai?
+
+183
+00:09:33,920 --> 00:09:35,760
+今晚过得真愉快
+I've enjoyed this evening so much.
+
+184
+00:09:35,760 --> 00:09:37,720
+很高兴你能光临这里
+Well, I'm glad you could share it with us.
+
+185
+00:09:37,720 --> 00:09:39,910
+吃甜点吧
+So, dessert. Mm.
+
+186
+00:09:41,070 --> 00:09:43,200
+我们要在一刻钟内离开
+We need to leave in 15 minutes.
+
+187
+00:09:43,390 --> 00:09:44,680
+没事吧
+Is everything all right?
+
+188
+00:09:45,150 --> 00:09:46,360
+当然
+It will be.
+
+189
+00:09:49,060 --> 00:09:50,310
+你好  这里是卡莉·麦吉森
+Hi. This is Carrie Mathison.
+
+190
+00:09:50,310 --> 00:09:52,010
+请留言静候回电
+Leave a message and I'll call you back.
+
+191
+00:09:56,580 --> 00:09:57,730
+你回来了
+You're back.
+
+192
+00:09:59,310 --> 00:10:00,630
+嗯  紧赶慢赶的
+Ah, catching up.
+
+193
+00:10:01,730 --> 00:10:02,920
+卡莉呢
+And Carrie?
+
+194
+00:10:02,920 --> 00:10:06,300
+还在琢磨谁搞的那次袭击呢
+Still trying to figure out who was responsible for the attack.
+
+195
+00:10:06,670 --> 00:10:07,820
+我是想帮她  不过...
+I was helping her, but...
+
+196
+00:10:07,820 --> 00:10:09,090
+我还是在这里更有用
+we decided I was needed here.
+
+197
+00:10:09,090 --> 00:10:10,370
+奥托真该开掉她
+Otto should fire her ass.
+
+198
+00:10:10,370 --> 00:10:13,250
+-她救了奥托的命  -她没做好本职工作
+She saved his life. She didn't do her job.
+
+199
+00:10:13,250 --> 00:10:14,860
+她的工作就是保证老板的安全
+Which was to make sure he was safe in the first place.
+
+200
+00:10:14,870 --> 00:10:16,340
+她建议过不要去
+She advised him not to go.
+
+201
+00:10:20,310 --> 00:10:21,510
+你有事吗
+Do you need something?
+
+202
+00:10:22,770 --> 00:10:24,960
+给我文档的线人把我耍了
+My source for the documents screwed me.
+
+203
+00:10:25,430 --> 00:10:27,210
+他给我的优盘是空的
+He gave me an empty flash drive.
+
+204
+00:10:27,470 --> 00:10:29,100
+-为什么  -我不知道
+- Why? - I don't know why.
+
+205
+00:10:29,100 --> 00:10:29,900
+他可能害怕了
+Maybe he's afraid.
+
+206
+00:10:29,910 --> 00:10:31,270
+中情局还在跟着我
+The CIA is still following me.
+
+207
+00:10:31,270 --> 00:10:32,550
+好吧  要我做什么
+Okay, what can I do?
+
+208
+00:10:34,250 --> 00:10:37,030
+你之前代理过的那个黑客  萨宾什么的
+You had a client, that hacker, Sabine something.
+
+209
+00:10:37,750 --> 00:10:41,230
+她不会帮你  而作为她的律师  我也反对
+She won't help you, and as her lawyer, I'd advise her not to.
+
+210
+00:10:41,230 --> 00:10:42,370
+乔纳斯  她很出名
+Jonas, she's famous.
+
+211
+00:10:42,370 --> 00:10:44,210
+如果她出面  我的线人会回信的
+If she reaches out to my guy, he'll respond.
+
+212
+00:10:44,210 --> 00:10:45,870
+她已经被软禁了三年
+She's under house arrest for three years.
+
+213
+00:10:45,870 --> 00:10:47,530
+政府一直在盯着她
+The government really went after her.
+
+214
+00:10:47,530 --> 00:10:48,980
+别去烦她了
+Give her a break, hum.
+
+215
+00:10:48,980 --> 00:10:49,980
+-烦她  -对
+- A break? - Yeah.
+
+216
+00:10:49,980 --> 00:10:51,820
+政府一直盯着我们所有人
+The government's after all of us!
+
+217
+00:10:51,820 --> 00:10:53,060
+有什么事吗
+Everything all right?
+
+218
+00:10:54,970 --> 00:10:56,060
+还好
+Fine.
+
+219
+00:10:56,360 --> 00:10:58,300
+我在让乔纳斯帮忙找我的线人
+I'm asking Jonas to help me track down my source
+
+220
+00:10:58,300 --> 00:11:00,560
+这样我们就可以得到余下的文件了
+so we can get a look at the rest of those documents.
+
+221
+00:11:01,120 --> 00:11:03,230
+当然  帮她办了吧  挺重要的
+Of course, help her. It's important.
+
+222
+00:11:03,970 --> 00:11:05,260
+有什么问题吗
+What's the problem?
+
+223
+00:11:06,010 --> 00:11:07,600
+没有  我会去办的
+No problem. I'll make the call.
+
+224
+00:11:08,010 --> 00:11:09,300
+越快越好
+Sooner the better.
+
+225
+00:11:15,050 --> 00:11:16,210
+喂
+Hello?
+
+226
+00:11:18,620 --> 00:11:19,740
+有消息吗
+Anything?
+
+227
+00:11:22,150 --> 00:11:24,060
+没有  我回小屋找她
+No. I drove up to the cottage.
+
+228
+00:11:24,070 --> 00:11:26,210
+她已经走了  所有东西消失  没留下线索
+She wasn't there. Everything gone, no trace.
+
+229
+00:11:26,480 --> 00:11:27,250
+我们应该报警
+We should call the police.
+
+230
+00:11:27,250 --> 00:11:29,200
+当然应该  但我们不能
+Of course we should, but we can't.
+
+231
+00:11:29,410 --> 00:11:31,030
+她说那样她会更危险
+She said it would put her in more danger.
+
+232
+00:11:31,030 --> 00:11:33,620
+她得靠自己来搞清楚真相
+She has to figure it out on her own to get to the truth.
+
+233
+00:11:35,560 --> 00:11:37,600
+谁会这样过日子呢
+I mean, who lives like this?
+
+234
+00:11:40,330 --> 00:11:41,570
+她会
+She does.
+
+235
+00:11:43,980 --> 00:11:45,320
+我知道你很担心
+I know you're worried.
+
+236
+00:11:46,810 --> 00:11:47,980
+我也是
+So am I.
+
+237
+00:11:56,070 --> 00:11:57,170
+准备好了吗
+Ready?
+
+238
+00:12:04,400 --> 00:12:05,500
+弗兰妮
+Franny.
+
+239
+00:12:07,750 --> 00:12:09,800
+你的名字是根据你爷爷的名字起的
+You're named after your grandfather,
+
+240
+00:12:10,110 --> 00:12:11,200
+弗兰克·麦吉森
+Frank Mathison.
+
+241
+00:12:11,200 --> 00:12:12,440
+你知道吗
+Did you know that?
+
+242
+00:12:15,770 --> 00:12:17,800
+我们好久没有见面了
+We haven't seen each other for a while.
+
+243
+00:12:19,340 --> 00:12:20,170
+我不得不离开你
+I had to leave you,
+
+244
+00:12:20,170 --> 00:12:23,660
+而你一定很生气
+and you're probably really angry about that.
+
+245
+00:12:24,450 --> 00:12:25,870
+我不怪你
+And I don't blame you.
+
+246
+00:12:28,080 --> 00:12:30,640
+不过  亲爱的  出了点事
+But, honey, something happened,
+
+247
+00:12:30,640 --> 00:12:34,300
+我跟你在一起不安全
+And it wasn't safe for me to be with you.
+
+248
+00:12:35,180 --> 00:12:38,760
+但我会尽我的一切...
+But I am doing everything that I can to get...
+
+249
+00:12:38,760 --> 00:12:39,840
+你干什么呢
+What are you doing?
+
+250
+00:12:40,690 --> 00:12:42,970
+如果你尽一切努力回到她身边
+If you're doing everything you can to get back to her,
+
+251
+00:12:42,970 --> 00:12:44,410
+说明你还活着
+then you're still alive.
+
+252
+00:12:44,550 --> 00:12:46,990
+-那又怎样  -如果这录像到了仇家手里 
+- So? - So, if this falls into the Wrong hands,
+
+253
+00:12:46,990 --> 00:12:48,300
+你就彻底废了
+you're fucked.
+
+254
+00:12:49,440 --> 00:12:50,820
+我不会一直躲着的
+I'm not going away forever.
+
+255
+00:12:50,830 --> 00:12:53,400
+只要等到事情解决就好了
+Just until this situation is resolved.
+
+256
+00:12:53,630 --> 00:12:55,140
+这事怎么解决
+How is it getting resolved?
+
+257
+00:12:55,840 --> 00:12:57,350
+我会搞清楚谁要杀我...
+I'm gonna figure out who targeted rne...
+
+258
+00:12:57,350 --> 00:12:59,180
+-然后他们会一直找你  -我会搞定的
+then they'll keep come looking for you. - And I will fix it!
+
+259
+00:12:59,180 --> 00:13:00,800
+如果他们认为你还活着
+And if they think you're still alive,
+
+260
+00:13:00,800 --> 00:13:02,940
+他们就会通过弗兰妮找到你
+they will get to you through Franny.
+
+261
+00:13:03,940 --> 00:13:05,090
+-但是  -卡莉
+- But... - Carrie!
+
+262
+00:13:05,800 --> 00:13:10,090
+为了弗兰妮的安全  你必须装死
+If you want Franny to be safe, you have to be dead.
+
+263
+00:13:17,950 --> 00:13:19,110
+天呐
+Jesus.
+
+264
+00:13:26,520 --> 00:13:28,420
+你被迫离开自己的骨肉时是何感觉
+How did you feel when you had to leave your kid?
+
+265
+00:13:29,200 --> 00:13:30,980
+不是所有人都适合为人父母
+Not everyone's fit to be a parent.
+
+266
+00:13:34,590 --> 00:13:35,660
+继续录吧
+Let's do this.
+
+267
+00:13:55,060 --> 00:13:56,130
+弗兰妮
+Franny.
+
+268
+00:13:57,930 --> 00:13:59,010
+也许现在...
+Maybe now...
+
+269
+00:14:00,300 --> 00:14:01,780
+你是"弗兰斯西"了
+You're using "Frances."
+
+270
+00:14:05,590 --> 00:14:07,760
+我们已经好久没有见面了
+We haven't seen each other in a long time.
+
+271
+00:14:09,680 --> 00:14:11,270
+我不得不离开你  而...
+I had to leave you, and...
+
+272
+00:14:12,730 --> 00:14:14,490
+你一定在记恨我
+You probably hate me for it.
+
+273
+00:14:15,540 --> 00:14:16,780
+我不怪你
+And I don't blame you.
+
+274
+00:14:18,130 --> 00:14:20,350
+但是出了点事情...
+But something happened, and...
+
+275
+00:14:20,830 --> 00:14:23,140
+我和你在一起会很危险
+It wasn't safe for me to be with you.
+
+276
+00:14:23,770 --> 00:14:25,000
+我会尽...
+I'm doing ev...
+
+277
+00:14:25,270 --> 00:14:26,410
+妈的
+Shit.
+
+278
+00:14:34,050 --> 00:14:37,270
+我尽了一切努力
+I did everything that I could
+
+279
+00:14:37,280 --> 00:14:38,560
+回到你身边
+to get back to you.
+
+280
+00:14:40,250 --> 00:14:41,740
+但我没能成功
+But I-I didn't make it.
+
+281
+00:14:43,980 --> 00:14:45,700
+我从事的那种工作...
+The kind of work that I did...
+
+282
+00:14:47,820 --> 00:14:49,030
+非常危险
+It's dangerous.
+
+283
+00:14:50,760 --> 00:14:54,410
+我忠于职守  愿意为它冒险
+But I believed in it, so I was willing to take that risk.
+
+284
+00:14:55,290 --> 00:14:56,380
+但是...
+But...
+
+285
+00:14:57,360 --> 00:14:58,800
+但是后来有了你
+But then you came along.
+
+286
+00:15:00,920 --> 00:15:03,690
+我意识到我想改变自己的生活
+And I realized that I wanted something different.
+
+287
+00:15:03,690 --> 00:15:06,250
+我想要  更好的生活
+I wanted... a better life.
+
+288
+00:15:10,010 --> 00:15:12,470
+我和你度过了一段幸福的生活
+And I had it with you for a while.
+
+289
+00:15:15,180 --> 00:15:16,240
+但是...
+But...
+
+290
+00:15:25,910 --> 00:15:27,380
+我没有抛弃你
+I didn't abandon you.
+
+291
+00:15:30,310 --> 00:15:32,100
+我知道被抛弃是什么感受
+I know what that feels like,
+
+292
+00:15:32,100 --> 00:15:33,800
+我绝对不会抛弃你
+and I would never do that to you.
+
+293
+00:15:36,680 --> 00:15:37,700
+你...
+You...
+
+294
+00:15:39,100 --> 00:15:40,960
+你是最重要的
+Are the most important, the...
+
+295
+00:15:42,000 --> 00:15:43,920
+我一生中最美好的事
+The best thing
+
+296
+00:15:44,130 --> 00:15:45,590
+就是生了你
+that I have ever done.
+
+297
+00:15:46,300 --> 00:15:48,790
+我人生中所有过错得以弥补
+You make up for every mistake
+
+298
+00:15:48,930 --> 00:15:50,370
+只因有你
+that I've ever made.
+
+299
+00:15:53,550 --> 00:15:55,770
+尽管你可能不相信...
+And although you probably don't believe it...
+
+300
+00:16:02,640 --> 00:16:03,620
+我爱你...
+I love you...
+
+301
+00:16:04,450 --> 00:16:07,460
+非常  非常爱你
+Very, very much.
+
+302
+00:16:40,260 --> 00:16:40,950
+干什么
+Was?
+
+303
+00:16:41,440 --> 00:16:42,620
+我找萨宾
+I'm looking for Sabine.
+
+304
+00:16:43,280 --> 00:16:44,330
+这里没人叫萨宾
+There's no Sabine here.
+
+305
+00:16:47,300 --> 00:16:48,050
+我和她约了见面
+I have a meeting with her.
+
+306
+00:16:48,050 --> 00:16:50,740
+中间人是她的律师  乔纳斯·赫兰德
+It was arranged through her lawyer, Jonas Hollander.
+
+307
+00:16:50,890 --> 00:16:51,760
+是吗
+Is that so?
+
+308
+00:16:54,140 --> 00:16:56,030
+没见到萨宾之前我是不会走的
+I'm not leaving until I see Sabine.
+
+309
+00:17:05,900 --> 00:17:07,290
+萨宾被软禁了
+Sabine's under house arrest.
+
+310
+00:17:07,790 --> 00:17:09,690
+而德国联情局一直阴魂不散
+But the BND keeps sniffing around,
+
+311
+00:17:10,000 --> 00:17:12,360
+想找出对她不利的证据
+Trying to find something to use against her.
+
+312
+00:17:12,990 --> 00:17:14,480
+把她送进监狱
+To send her to prison.
+
+313
+00:17:19,170 --> 00:17:21,340
+手机放进去  这袋子能屏蔽信号
+Put your phone in here. It blocks the signal.
+
+314
+00:17:21,760 --> 00:17:23,290
+我已经把电话卡拿出来了
+I already took out the SIM card.
+
+315
+00:17:23,610 --> 00:17:25,230
+要么把手机丢进袋子  要么滚出去
+Put your phone in the bag or get out.
+
+316
+00:17:36,520 --> 00:17:38,070
+她来找萨宾
+She's looking for Sabine.
+
+317
+00:17:40,820 --> 00:17:41,750
+你是萨宾吗
+Are you Sabine?
+
+318
+00:17:44,580 --> 00:17:45,640
+怎么了
+What's going on?
+
+319
+00:17:46,930 --> 00:17:48,060
+我才是萨宾
+I'm Sabine.
+
+320
+00:17:52,000 --> 00:17:53,060
+你刚刚那么做是什么意思
+What was that about?
+
+321
+00:17:53,970 --> 00:17:55,740
+我不得不谨慎点  抱歉
+I have to be careful. Sorry.
+
+322
+00:17:56,760 --> 00:17:59,440
+我们知道你的丰功伟绩  太漂亮了
+We know your work. Amazing.
+
+323
+00:18:01,250 --> 00:18:03,880
+萨宾不能和记者交谈
+Sabine's not allowed to communicate with journalists.
+
+324
+00:18:04,170 --> 00:18:05,880
+这是她的软禁条件
+It's a condition of her house arrest.
+
+325
+00:18:06,200 --> 00:18:07,300
+她是我们这边的
+She's one of us.
+
+326
+00:18:07,310 --> 00:18:09,430
+她揭发了美国中情局和德国联情局
+She exposed the CIA and the BND.
+
+327
+00:18:11,110 --> 00:18:12,490
+你搞得他们焦头烂额
+You kicked their asses.
+
+328
+00:18:12,870 --> 00:18:14,210
+还能再火上浇油一把
+There's more where that came from.
+
+329
+00:18:14,210 --> 00:18:14,990
+什么意思
+What do you mean?
+
+330
+00:18:15,860 --> 00:18:16,930
+更多的文件
+More documents.
+
+331
+00:18:18,180 --> 00:18:20,060
+-真的假的  -问题是
+- No shit. - The problem is,
+
+332
+00:18:20,260 --> 00:18:22,550
+我联系不到那个"把文件黑出来的人"
+"the guy who hacked the documents" I can't find him.
+
+333
+00:18:23,750 --> 00:18:24,780
+加布·H·库德
+Gabe H. Coud.
+
+334
+00:18:25,280 --> 00:18:28,270
+-谁  -加布·H·库德  这是他的网名
+- Who? - Gabe H. Coud. What he calls himself online.
+
+335
+00:18:28,770 --> 00:18:31,380
+-就是"傻逼"倒过来写  -你认识他
+- It's "Douche bag" backwards. - You know him?
+
+336
+00:18:31,390 --> 00:18:32,940
+如雷贯耳  他很出名
+Of him. He's famous.
+
+337
+00:18:32,950 --> 00:18:34,240
+他可是黑了美国中情局的人
+Dude hacked the CIA.
+
+338
+00:18:34,240 --> 00:18:35,400
+你能帮我找到他吗
+You can help me find him?
+
+339
+00:18:36,160 --> 00:18:37,340
+没有我找不到的人
+I can find anyone.
+
+340
+00:18:38,410 --> 00:18:40,190
+你如果去找加布·H·库德
+If you start looking for Gabe H. Coud,
+
+341
+00:18:40,190 --> 00:18:42,730
+就会招来不必要的注意
+you'll attract the attention from the wrong people.
+
+342
+00:18:44,610 --> 00:18:46,180
+这简直是回到了前东德时代
+This is like something from the Stasi days.
+
+343
+00:18:46,180 --> 00:18:48,570
+你们连个消息都不敢打听了吗
+You guys are afraid to ask for information?
+
+344
+00:18:49,460 --> 00:18:51,500
+德国联情局巴不得把我丢进监狱
+The BND would love to throw my ass into prison.
+
+345
+00:18:51,500 --> 00:18:52,410
+让他们试试看
+Let them try.
+
+346
+00:18:52,560 --> 00:18:53,990
+我会让他们生不如死
+I'll make their lives a living hell.
+
+347
+00:18:54,140 --> 00:18:56,310
+承担风险的是萨宾  又不是你
+Sabine will be taking the risk, not you.
+
+348
+00:18:56,310 --> 00:18:58,720
+我也面临着被逮捕的风险  还有引渡
+I'm facing arrest, too. And extradition.
+
+349
+00:18:58,720 --> 00:19:00,870
+我是疑犯  知道这意味着什么吗
+I'm a person of interest. Do you know what that means?
+
+350
+00:19:02,390 --> 00:19:03,890
+意味着你不害怕
+It means you're not scared.
+
+351
+00:19:06,030 --> 00:19:07,360
+意味着我在努力不害怕
+It means I try not to be.
+
+352
+00:19:17,300 --> 00:19:20,510
+{\pos(72,239.2)}瑞士  杜维纳
+
+353
+00:19:46,030 --> 00:19:47,250
+约瑟夫将军
+General Youssef?
+
+354
+00:19:47,520 --> 00:19:48,170
+我是
+Yes?
+
+355
+00:19:48,230 --> 00:19:49,210
+约瑟夫夫人
+Mrs. Youssef?
+
+356
+00:19:49,490 --> 00:19:52,620
+我是丹尼斯·凯勒  西弗尔诊所的负责人
+I'm Denise Keller, director of the Seeufer Clinic.
+
+357
+00:19:53,280 --> 00:19:57,050
+这次安排的牵线人是德罗兹医生
+The arrangements were made through Dr. Droz.
+
+358
+00:19:57,250 --> 00:19:58,710
+他在诊所里候着了
+He's waiting at the clinic.
+
+359
+00:20:03,060 --> 00:20:05,410
+我妻子想跟我们女儿一起走
+My wife would like to travel with our daughter.
+
+360
+00:20:05,410 --> 00:20:06,230
+好
+Of course.
+
+361
+00:20:06,650 --> 00:20:08,370
+带约瑟夫夫人上救护车
+Will you help Mrs. Youssef into the ambulance?
+
+362
+00:20:08,380 --> 00:20:09,240
+是
+Certainly.
+
+363
+00:20:09,410 --> 00:20:10,510
+请跟我来
+Come with me, please.
+
+364
+00:20:12,590 --> 00:20:14,140
+{\pos(187.2,269.6)}你待在飞机上
+
+365
+00:20:15,390 --> 00:20:17,110
+{\pos(188.4,269.6)}我和您一起  长官
+
+366
+00:20:21,770 --> 00:20:22,840
+这边请
+This way, please.
+
+367
+00:20:24,470 --> 00:20:27,060
+在这里  您和您的家人享有完全的隐私
+Your family will have complete privacy while you're here.
+
+368
+00:20:27,060 --> 00:20:28,440
+没有其他病人
+There are no other patients.
+
+369
+00:20:28,800 --> 00:20:29,730
+捐献者呢
+The donor?
+
+370
+00:20:30,040 --> 00:20:32,730
+他已安全抵达  并符合所有医疗要求
+He arrived safely and meets all the medical requirements.
+
+371
+00:20:34,310 --> 00:20:36,640
+你不是瑞士人  你口音不对
+You are not Swiss. Your accent.
+
+372
+00:20:37,880 --> 00:20:38,920
+您耳朵真尖
+You have a good ear.
+
+373
+00:20:39,340 --> 00:20:40,370
+我是柏林来的
+I'm from Berlin.
+
+374
+00:20:45,280 --> 00:20:47,800
+您女儿会没事的  我保证
+Your daughter will be fine. I promise.
+
+375
+00:21:07,370 --> 00:21:09,370
+这是你的外科医生  德罗兹医生
+This is your surgeon, dr. Droz.
+
+376
+00:21:09,370 --> 00:21:11,470
+我们电话里沟通过
+Yes, uh, we've spoken on the phone.
+
+377
+00:21:12,280 --> 00:21:13,480
+一切都准备就绪
+Everything is in order.
+
+378
+00:21:14,200 --> 00:21:14,920
+很好
+Good.
+
+379
+00:21:15,940 --> 00:21:18,060
+请转交给肾脏捐赠者
+For the kidney donor, as well.
+
+380
+00:21:20,820 --> 00:21:22,300
+我去准备了
+I'll go prepare.
+
+381
+00:21:25,240 --> 00:21:26,890
+你想在阿妮娜被推进去之前
+Do you want to spend a moment with Arnena
+
+382
+00:21:26,890 --> 00:21:28,270
+见见她吗
+before they take her in?
+
+383
+00:21:28,290 --> 00:21:29,220
+好的  麻烦了
+Yes, please.
+
+384
+00:21:58,690 --> 00:22:01,590
+我助手会带您去等待区
+My assistant will show you to the waiting lounge.
+
+385
+00:22:01,590 --> 00:22:02,840
+如果有需要
+If there's anything you need,
+
+386
+00:22:02,980 --> 00:22:05,710
+任何需要  请务必告诉我们
+anything at all, don't hesitate to ask.
+
+387
+00:22:05,710 --> 00:22:06,470
+谢谢
+Thank you.
+
+388
+00:22:30,850 --> 00:22:32,070
+你觉得他怎么样
+So what do you make of him?
+
+389
+00:22:33,540 --> 00:22:34,390
+他是个什么样的人
+What is he?
+
+390
+00:22:34,800 --> 00:22:37,200
+沉默  骄傲
+Not a talker. Proud.
+
+391
+00:22:37,320 --> 00:22:39,410
+跟你想象中一样
+Exactly what you'd expect.
+
+392
+00:22:39,990 --> 00:22:42,420
+习惯于发号施令  让人服从  不过
+Used to giving orders and having them obeyed, but,
+
+393
+00:22:42,430 --> 00:22:44,530
+现在貌似是他的手下说了算
+his officers seem to be in charge here.
+
+394
+00:22:44,530 --> 00:22:46,320
+他非常反感
+And he resents that.
+
+395
+00:22:47,620 --> 00:22:49,680
+阿萨德肯定怕他会跑
+Assad must believe he's a flight risk.
+
+396
+00:22:50,900 --> 00:22:52,510
+你觉得我们搞得定他吗
+You think we have enough on him?
+
+397
+00:22:52,710 --> 00:22:53,790
+身为战犯
+The war crimes.
+
+398
+00:22:54,080 --> 00:22:55,840
+女儿命悬一线
+His daughter's life in the balance.
+
+399
+00:22:56,100 --> 00:22:57,840
+祖国形势又危险
+The precarious state of his country.
+
+400
+00:22:59,210 --> 00:23:00,610
+我们有一手好牌
+We got a hand of aces.
+
+401
+00:23:00,880 --> 00:23:02,160
+你觉得他会发火吗
+You think he'll burn?
+
+402
+00:23:02,750 --> 00:23:03,500
+你又不是不知道  索尔
+You know how it is, Saul.
+
+403
+00:23:03,500 --> 00:23:05,620
+这些家伙有的非常爱国
+Some of these guys get all patriotic.
+
+404
+00:23:08,470 --> 00:23:09,730
+起码情报是对的
+At least the intelligence is correct.
+
+405
+00:23:09,740 --> 00:23:11,220
+-他抽烟  -很好
+- He smokes. - Good.
+
+406
+00:23:11,930 --> 00:23:13,250
+我也能会和他来一根
+I might have one with him.
+
+407
+00:23:13,310 --> 00:23:16,020
+给他尝尝你的  他抽的叙利亚烟
+Offer him one of yours. His are syrian.
+
+408
+00:23:16,190 --> 00:23:17,770
+他肯定愿意来点高级的
+I think he'd appreciate an upgrade.
+
+409
+00:23:18,620 --> 00:23:19,470
+没问题
+I will.
+
+410
+00:23:22,240 --> 00:23:23,490
+我得走了
+I should get going.
+
+411
+00:23:24,610 --> 00:23:25,340
+是的
+Yeah.
+
+412
+00:23:44,180 --> 00:23:45,470
+你搬到柏林
+You moved to Berlin.
+
+413
+00:23:45,670 --> 00:23:47,930
+找了新工作  新男朋友  
+Got a new job, new guy.
+
+414
+00:23:47,930 --> 00:23:50,060
+却还保留着撤退计划
+And still kept your fallback plan in place.
+
+415
+00:23:51,100 --> 00:23:51,830
+那又怎样
+So?
+
+416
+00:23:52,560 --> 00:23:55,070
+我猜你觉得你的新生活可能不会长久
+So I guess you weren't sure your new life was gonna work out.
+
+417
+00:23:58,950 --> 00:24:00,140
+我在这里过得很好
+I found a good life here.
+
+418
+00:24:01,210 --> 00:24:02,030
+我本来很开心
+I was happy.
+
+419
+00:24:05,040 --> 00:24:05,920
+你去哪儿了
+Where have you been?
+
+420
+00:24:06,880 --> 00:24:07,800
+叙利亚
+Syria.
+
+421
+00:24:11,160 --> 00:24:13,160
+奎恩  这过去两年中  无论我去哪儿
+Quinn, the last two years, everywhere I went,
+
+422
+00:24:13,160 --> 00:24:14,110
+我都在找你
+I looked for you.
+
+423
+00:24:15,220 --> 00:24:16,240
+我一直找你
+I tried to find you.
+
+424
+00:24:16,240 --> 00:24:18,000
+我从没有忘记你
+I never stopped thinking about you.
+
+425
+00:24:20,730 --> 00:24:21,830
+这些都不重要了
+Doesn't matter now.
+
+426
+00:24:32,200 --> 00:24:32,930
+怎么样
+Well,
+
+427
+00:24:34,740 --> 00:24:35,610
+我看起来怎么样
+how do I look?
+
+428
+00:24:38,680 --> 00:24:39,780
+像个陌生人
+Like somebody else.
+
+429
+00:24:49,920 --> 00:24:51,560
+你亲眼见到索尔用信箱吗
+Did you ever see Saul use the drop?
+
+430
+00:24:51,560 --> 00:24:53,150
+-卡莉  别这样  -我必须要知道
+- Carrie, come on. - I need to know.
+
+431
+00:24:53,440 --> 00:24:55,190
+是的  我们第一次建立联络时见过他
+Yeah, I saw him the first time we set it up.
+
+432
+00:24:56,750 --> 00:24:57,700
+之后没见过吗
+Not since?
+
+433
+00:24:58,170 --> 00:25:00,110
+没有  没有授权联络
+I'm deniable. No contact authorized.
+
+434
+00:25:00,110 --> 00:25:01,140
+我们得走了
+We have to move.
+
+435
+00:25:01,570 --> 00:25:02,830
+所以你并不确定
+So you don't know for certain
+
+436
+00:25:02,830 --> 00:25:05,420
+-是不是索尔把我的名字放进去的  -天呐
+- it was Saul who put my name in the box? - Christ.
+
+437
+00:25:05,560 --> 00:25:06,790
+你到底确定不确定
+Do you or don't you?
+
+438
+00:25:06,850 --> 00:25:08,350
+这是索尔的行动
+It's Saul's operation.
+
+439
+00:25:08,350 --> 00:25:09,540
+我只需要知道这么多
+That's all I need to know.
+
+440
+00:25:10,320 --> 00:25:12,480
+没道理啊  我是说  也许索尔变了
+It doesn't make sense. I mean, maybe Saul changed.
+
+441
+00:25:12,480 --> 00:25:15,410
+也许我把他惹毛了  但是索尔不傻
+Maybe I pissed him off. But Saul's smart.
+
+442
+00:25:15,410 --> 00:25:17,350
+让你来杀我太傻了
+Sending you to kill me is not smart.
+
+443
+00:25:17,350 --> 00:25:18,440
+太他娘蠢了
+It's fucking stupid.
+
+444
+00:25:18,440 --> 00:25:20,190
+我活生生地站在这里就是最好的证据
+The fact that I'm still alive proves it.
+
+445
+00:25:20,190 --> 00:25:22,420
+不论你怎么想  你都是个目标
+You're still a target either way you look at it.
+
+446
+00:25:22,860 --> 00:25:24,990
+奎恩  如果不是索尔把我名字放进去的
+Quinn, if Saul didn't put my name in the box,
+
+447
+00:25:25,000 --> 00:25:26,740
+你们的行动里就有内鬼
+Then someone's inside your operation.
+
+448
+00:25:26,740 --> 00:25:29,020
+这之后你拿到的名字  都不靠谱
+Any name you get after this, it's not legitimate.
+
+449
+00:25:29,590 --> 00:25:30,550
+我们试试看
+Let's test it.
+
+450
+00:25:31,910 --> 00:25:33,830
+-带我去你的信箱  -不  我自己来
+- Take me to your drop. - No, I'll handle it.
+
+451
+00:25:33,830 --> 00:25:35,250
+-我跟你一起去  -赶紧上车
+- I'll go with you. - Get in the car.
+
+452
+00:25:35,250 --> 00:25:36,610
+带你去火车站
+We're taking you to the train.
+
+453
+00:25:36,860 --> 00:25:38,070
+-不  -卡莉
+- No. - Carrie.
+
+454
+00:25:38,080 --> 00:25:40,230
+你是说我在这世上
+You are telling me that someone I trust more
+
+455
+00:25:40,230 --> 00:25:42,840
+最信任的人要杀了我
+than I've ever trusted anyone is trying to kill me.
+
+456
+00:25:42,840 --> 00:25:45,680
+然后我还得乖乖面对  不能提出质疑
+And I'm just supposed to accept that, no questions asked?
+
+457
+00:25:45,990 --> 00:25:48,450
+余生在逃亡中度过  再也不能见我女儿
+Spend my life on the run, give up my daughter?
+
+458
+00:25:50,510 --> 00:25:51,960
+奎恩  我必须得搞清楚
+Quinn, I have to know.
+
+459
+00:26:01,290 --> 00:26:02,450
+这边走  将军
+Right this way, General.
+
+460
+00:26:06,750 --> 00:26:07,510
+请进
+Come in.
+
+461
+00:26:09,070 --> 00:26:10,960
+这里有些表格需要您签字
+There are some forms you need to sign.
+
+462
+00:26:14,540 --> 00:26:15,960
+不应该有表格
+There shouldn't be any forms.
+
+463
+00:26:15,960 --> 00:26:16,820
+请坐
+Please sit.
+
+464
+00:26:32,270 --> 00:26:33,600
+这是怎么回事
+What is happening here?
+
+465
+00:26:35,230 --> 00:26:36,290
+我是中情局的人
+I'm CIA.
+
+466
+00:26:36,610 --> 00:26:38,680
+这家医院的人都是中情局的人
+Everyone in this facility is CIA.
+
+467
+00:26:39,010 --> 00:26:40,840
+当然  除了手术团队以外
+Except for the surgical team, of course.
+
+468
+00:26:44,030 --> 00:26:45,760
+你来到日内瓦
+You've traveled to Geneva in violation
+
+469
+00:26:45,760 --> 00:26:47,410
+违反了国际制裁条例
+of international sanctions.
+
+470
+00:26:47,410 --> 00:26:49,900
+你在这里没有基本权利  没有豁免权
+You have no rights here, no immunity.
+
+471
+00:26:50,030 --> 00:26:52,250
+我们可以逮捕你  以战争罪将你送到海牙
+We can arrest you and have you transported to the Hague
+
+472
+00:26:52,250 --> 00:26:54,040
+接受庭审
+to stand trial for war crimes.
+
+473
+00:26:57,410 --> 00:26:58,700
+你怎么能这样
+How dare you?
+
+474
+00:26:58,700 --> 00:27:01,240
+继续盯着表格看吧
+Keep looking at the form.
+
+475
+00:27:07,430 --> 00:27:08,740
+还有个办法
+There is an alternative.
+
+476
+00:27:09,290 --> 00:27:11,570
+可惜  我们现在没时间讨论了
+Unfortunately, we don't have time to discuss it now.
+
+477
+00:27:11,770 --> 00:27:13,460
+等到中午开饭
+Wait until lunch is served.
+
+478
+00:27:13,470 --> 00:27:14,730
+如果你想抽根烟
+Say you want a smoke.
+
+479
+00:27:14,780 --> 00:27:16,760
+就去花园里独自散个步
+Go for a walk in the garden. Go alone.
+
+480
+00:27:18,650 --> 00:27:19,750
+在这里签字
+Now sign the form.
+
+481
+00:27:31,800 --> 00:27:32,660
+谢谢  将军
+Thank you, General.
+
+482
+00:27:33,540 --> 00:27:35,630
+你现在应该想回到妻子身边吧
+You'll probably want to get back to your wife now.
+
+483
+00:28:08,860 --> 00:28:09,780
+{\pos(205.8,144.8)}还在找加布·H·库德
+
+484
+00:28:11,750 --> 00:28:12,520
+{\pos(218.4,67.2)}不在这里
+
+485
+00:28:16,800 --> 00:28:18,220
+{\pos(202.2,212)}我有事跟他讲
+
+486
+00:28:25,420 --> 00:28:25,990
+{\pos(236.4,86.4)}在找我吗
+
+487
+00:28:33,310 --> 00:28:43,170
+{\pos(324,55.2)}她气坏了
+
+488
+00:28:33,310 --> 00:28:43,170
+{\pos(267,79.2)}为什么
+
+489
+00:28:35,740 --> 00:28:43,170
+{\pos(340.2,116)}你把她玩了
+
+490
+00:28:40,090 --> 00:28:43,170
+{\pos(304.8,175.2)}盘是空的
+
+491
+00:28:42,170 --> 00:28:43,170
+{\pos(268.8,236)}胡说  我都给她了
+
+492
+00:28:26,160 --> 00:28:27,520
+找到他了  我们接上头了
+Found him. We're on.
+
+493
+00:28:30,950 --> 00:28:33,250
+问他为什么给了我张空盘
+Ask him why he gave me that bullshit empty drive.
+
+494
+00:28:43,620 --> 00:28:45,160
+他说他把那些文件给你了
+He says he gave you the documents.
+
+495
+00:28:45,160 --> 00:28:46,420
+硬盘是空的
+The drive was empty.
+
+496
+00:28:49,820 --> 00:28:50,860
+空的吗
+Empty?
+
+497
+00:28:54,080 --> 00:28:55,890
+科赞尼克这个傻逼
+Fucking Korzenik.
+
+498
+00:28:56,600 --> 00:28:59,330
+他说肯定是被他朋友动手脚了
+He says that his friend must've screwed with the drive.
+
+499
+00:28:59,640 --> 00:29:00,420
+朋友
+Friend?
+
+500
+00:29:00,420 --> 00:29:02,110
+到底有多少人知道这件事
+How many people know about this?
+
+501
+00:29:02,150 --> 00:29:03,150
+科赞尼克
+Korzenik.
+
+502
+00:29:04,460 --> 00:29:05,610
+你个混蛋
+You asshole.
+
+503
+00:29:07,390 --> 00:29:09,750
+你怎么处理的那些文件
+What did you do to those documents?
+
+504
+00:29:12,000 --> 00:29:12,980
+回电话
+Call me back.
+
+505
+00:29:27,940 --> 00:29:28,910
+科赞尼克呢
+Where's Korzenik?
+
+506
+00:29:29,700 --> 00:29:31,600
+走开  我在工作
+Go away. I'm working here.
+
+507
+00:29:31,880 --> 00:29:34,460
+我要找你的白痴男友
+I need to talk to your idiot boyfriend.
+
+508
+00:29:34,580 --> 00:29:35,910
+他不肯回我电话
+He won't answer my calls.
+
+509
+00:29:36,790 --> 00:29:37,710
+出去
+Get out.
+
+510
+00:29:42,610 --> 00:29:43,400
+打给他
+Call him.
+
+511
+00:29:44,450 --> 00:29:45,340
+打给他
+Call him.
+
+512
+00:29:47,760 --> 00:29:49,630
+你联系上他  我就走
+Call him and I'll leave.
+
+513
+00:29:52,850 --> 00:29:54,430
+亲爱的  我稍后就回
+I'll be right back, baby.
+
+514
+00:29:55,220 --> 00:29:56,340
+你个人渣
+You piece of shit.
+
+515
+00:30:02,010 --> 00:30:02,860
+科赞尼
+Korzy?
+
+516
+00:30:04,420 --> 00:30:05,130
+你...
+What...
+
+517
+00:30:06,030 --> 00:30:08,240
+你怎么处理的那些文件
+What did you do with those documents?
+
+518
+00:30:08,790 --> 00:30:10,960
+放松  我们会发财的
+Relax. We're going to be rich.
+
+519
+00:30:11,880 --> 00:30:12,920
+你卖掉了吗
+You sold them?
+
+520
+00:30:13,070 --> 00:30:14,450
+你想把它们送人
+You were going to give them away.
+
+521
+00:30:14,850 --> 00:30:16,140
+以自由的名义
+In the name of freedom.
+
+522
+00:30:16,460 --> 00:30:17,770
+你知道什么才能让你自由吗
+You know what gives you freedom?
+
+523
+00:30:18,420 --> 00:30:19,210
+金钱
+Money.
+
+524
+00:30:19,320 --> 00:30:20,880
+我的俄国朋友出了高价
+My Russian friend paid big.
+
+525
+00:30:22,000 --> 00:30:22,880
+俄国人吗
+Russians?
+
+526
+00:30:22,920 --> 00:30:24,090
+他们派了辆车来
+They sent a car.
+
+527
+00:30:25,480 --> 00:30:27,370
+别担心  我会算你一份的
+Don't worry. I'm going to cut you in.
+
+528
+00:30:27,370 --> 00:30:28,910
+尽管你没资格拿
+Even though you don't deserve it.
+
+529
+00:30:29,900 --> 00:30:32,520
+你不知道自己在干什么
+You don't know what you are doing.
+
+530
+00:30:32,690 --> 00:30:33,900
+我不傻
+I'm not stupid.
+
+531
+00:30:34,830 --> 00:30:37,630
+你个蠢货  给我下车
+You idiot. Get out of the car.
+
+532
+00:30:37,790 --> 00:30:38,540
+科赞尼
+Korzy.
+
+533
+00:30:51,940 --> 00:30:52,630
+这边走
+Kommen.
+
+534
+00:31:34,330 --> 00:31:35,320
+科赞尼克先生
+Mr. Korzenik.
+
+535
+00:31:36,560 --> 00:31:37,360
+进来
+Come in.
+
+536
+00:31:39,040 --> 00:31:39,970
+鲍里斯呢
+Where's Boris?
+
+537
+00:31:40,570 --> 00:31:41,600
+鲍里斯不在
+Boris is not here.
+
+538
+00:31:41,600 --> 00:31:42,110
+我来负责跟你交易
+You'll be dealing with me.
+
+539
+00:31:42,110 --> 00:31:44,290
+请坐
+Please, sit down.
+
+540
+00:31:46,880 --> 00:31:48,700
+这是我同事  瓦伦汀
+This is my, uh, colleague, Valentin.
+
+541
+00:31:48,700 --> 00:31:49,750
+瓦伦汀  打声招呼
+Valentin, say hello.
+
+542
+00:31:52,960 --> 00:31:55,520
+我是伊万  很高兴认识你
+Ivan. Very nice to meet you.
+
+543
+00:31:58,290 --> 00:32:00,900
+听说你有东西要给我
+So, you have something for me.
+
+544
+00:32:02,670 --> 00:32:04,010
+我要先拿到钱
+I want my money first.
+
+545
+00:32:04,590 --> 00:32:06,970
+当然了  抱歉
+Of course. Sorry.
+
+546
+00:32:15,040 --> 00:32:15,960
+可以了吗
+Okay?
+
+547
+00:32:17,450 --> 00:32:18,910
+-可以  -好
+- Yeah. - Okay.
+
+548
+00:32:21,560 --> 00:32:23,620
+现在轮到你了
+Now I need something from you.
+
+549
+00:32:29,840 --> 00:32:30,990
+很好
+Excellent.
+
+550
+00:32:33,400 --> 00:32:36,160
+我们去检查一下
+We will check it.
+
+551
+00:32:41,070 --> 00:32:43,090
+敬合作愉快  科赞尼克先生
+To business, Mr. Korzenik.
+
+552
+00:32:43,460 --> 00:32:44,510
+合作愉快
+To business.
+
+553
+00:32:47,900 --> 00:32:49,410
+这是唯一的副本吧
+This is the only copy, right?
+
+554
+00:32:49,800 --> 00:32:51,970
+-当然  -你确定
+- Of course. - You sure?
+
+555
+00:32:52,220 --> 00:32:53,810
+不会骗我什么的吧
+Not gonna trick me or something?
+
+556
+00:32:54,700 --> 00:32:56,910
+只有这一份  我保证
+It's the only copy. I promise.
+
+557
+00:32:57,480 --> 00:32:58,370
+很好
+Good.
+
+558
+00:32:58,580 --> 00:32:59,870
+我得走了
+So, I go now.
+
+559
+00:32:59,870 --> 00:33:00,760
+坐下
+Sit.
+
+560
+00:33:01,760 --> 00:33:02,800
+拜托
+Please.
+
+561
+00:33:05,720 --> 00:33:06,530
+要知道
+You know...
+
+562
+00:33:07,610 --> 00:33:11,310
+信任别人是我人生中的一个理想
+One of my ambitions in life is to be a trusting person.
+
+563
+00:33:11,310 --> 00:33:14,580
+我认为这是一种很可贵的品质  信任
+I think it's an admirable quality, you know, trust.
+
+564
+00:33:15,390 --> 00:33:17,640
+那些与之相反的人  那些...
+People who are the opposite, who are...
+
+565
+00:33:18,400 --> 00:33:20,020
+用英语怎么说来着
+what's the word in English I mean?
+
+566
+00:33:20,420 --> 00:33:22,070
+-多疑  -疑神疑鬼
+- Suspicious? - Cynical.
+
+567
+00:33:24,530 --> 00:33:26,350
+那样的人生可不会惬意
+That's not a pleasant life.
+
+568
+00:33:27,750 --> 00:33:32,410
+所以你看  我想信任你科赞尼克先生
+So, you see, I want to trust you, Mr. Korzenik.
+
+569
+00:33:34,820 --> 00:33:38,990
+不幸的是  我疑神疑鬼
+Unfortunately, I am cynical.
+
+570
+00:33:45,200 --> 00:33:46,450
+真平静
+So peaceful.
+
+571
+00:33:48,560 --> 00:33:49,690
+你不觉得吗
+Don't you think?
+
+572
+00:33:55,640 --> 00:33:57,270
+我去抽支烟
+I'm going to smoke.
+
+573
+00:33:57,560 --> 00:33:58,720
+你要去看看阿妮娜吗
+Will you check on Arnena?
+
+574
+00:33:58,720 --> 00:33:59,680
+当然
+Of course.
+
+575
+00:34:01,170 --> 00:34:04,440
+怎么  你不相信我是去抽烟
+What, you don't trust me to have a smoke?
+
+576
+00:34:04,700 --> 00:34:06,040
+你觉得我要做什么
+What do you think I'll do?
+
+577
+00:34:06,620 --> 00:34:09,610
+在我女儿手术的时候游到湖那边去
+Swim across the lake while my daughter is in surgery?
+
+578
+00:34:11,580 --> 00:34:13,200
+午餐愉快
+Enjoy your lunch.
+
+579
+00:34:29,390 --> 00:34:30,480
+约瑟夫将军
+General Youssef.
+
+580
+00:34:30,740 --> 00:34:33,710
+索尔·贝伦森  我受宠若惊
+Saul Berenson. I'm flattered.
+
+581
+00:34:34,540 --> 00:34:36,120
+请坐
+Please, have a seat.
+
+582
+00:34:36,970 --> 00:34:38,420
+我们时间不多
+We don't have much time.
+
+583
+00:34:40,380 --> 00:34:41,450
+要来一支吗
+Care for one?
+
+584
+00:34:55,250 --> 00:34:58,230
+将军  你我都清楚叙利亚的危机
+General, you and I both know the crisis in Syria
+
+585
+00:34:58,230 --> 00:34:59,770
+在日益恶化
+is getting worse every day.
+
+586
+00:35:00,000 --> 00:35:02,510
+你指望我相信你关心我的国家
+You wish me to believe you are concerned for my country?
+
+587
+00:35:03,060 --> 00:35:04,940
+我们的分歧在于你们的总统
+Our argument is with your president,
+
+588
+00:35:05,210 --> 00:35:06,930
+不是叙利亚的人民
+not with the Syrian people.
+
+589
+00:35:08,590 --> 00:35:09,870
+极端组织正在准备
+The Islamic state is preparing
+
+590
+00:35:09,870 --> 00:35:11,910
+对政府进行一次大规模进攻
+a major offensive against the regime.
+
+591
+00:35:12,570 --> 00:35:13,350
+所以
+So?
+
+592
+00:35:13,370 --> 00:35:15,800
+他们占领着叙利亚的一半领土
+They control half of all Syrian territory.
+
+593
+00:35:16,030 --> 00:35:17,570
+战斗减员和逃兵
+Your regular army's been reduced
+
+594
+00:35:17,580 --> 00:35:19,240
+让政府军数量不断减少
+through casualties and desertions.
+
+595
+00:35:19,440 --> 00:35:21,590
+说点我不知道的
+Tell me something I don't know.
+
+596
+00:35:25,670 --> 00:35:27,140
+坦白来说  将军
+Let's talk frankly, General.
+
+597
+00:35:28,960 --> 00:35:30,330
+你打不赢的
+You will lose the war.
+
+598
+00:35:31,540 --> 00:35:33,190
+等到大马士革沦陷
+When Damascus falls,
+
+599
+00:35:33,190 --> 00:35:35,010
+这个国家所有的阿拉维派
+every Alawi in the country,
+
+600
+00:35:35,350 --> 00:35:39,240
+包括你和你的家人  都会被屠杀 
+including you and your family, will be slaughtered.
+
+601
+00:35:42,850 --> 00:35:44,340
+我知道你热爱你的国家
+I know you love your country.
+
+602
+00:35:44,340 --> 00:35:46,320
+你一点都不了解我
+You don't know anything about me.
+
+603
+00:35:46,670 --> 00:35:48,530
+我知道你是个有才干的指挥官
+I know you're an able commander.
+
+604
+00:35:49,130 --> 00:35:51,960
+高级官员们对你十分忠诚
+You have a loyal following among the high-ranking officers.
+
+605
+00:35:52,230 --> 00:35:54,850
+我们相信他们会支持由你来领导国家
+We believe they will support you to lead your country.
+
+606
+00:35:58,040 --> 00:35:59,470
+领导我的...
+To lead my...
+
+607
+00:36:00,250 --> 00:36:01,840
+等你取代了阿萨德
+When you replace Assad.
+
+608
+00:36:11,170 --> 00:36:13,390
+这是你对叙利亚问题的解决方法
+This is your solution for Syria?
+
+609
+00:36:15,870 --> 00:36:17,780
+这是当前最好的方法
+It's the best one on the table.
+
+610
+00:36:23,240 --> 00:36:26,550
+一半的政府机构部长是巴沙尔的亲属
+Half of the government ministers are Bashir's family.
+
+611
+00:36:26,550 --> 00:36:28,470
+全部非常忠诚  我要怎么解决他们
+All loyal. How do I deal with them?
+
+612
+00:36:28,490 --> 00:36:32,960
+现在  我们正往你飞机上搬一千万美元
+At this moment, we're loading $10 million onto your jet.
+
+613
+00:36:33,270 --> 00:36:35,220
+那些钱会给你买来很大的影响力
+That money will buy you a great deal of influence.
+
+614
+00:36:35,220 --> 00:36:37,070
+巴沙尔也有钱行贿
+Bashir has money to bribe, too.
+
+615
+00:36:37,070 --> 00:36:40,920
+但是你  以叙利亚新任总统的身份
+But you, as Syria's new president--
+
+616
+00:36:41,480 --> 00:36:44,560
+许诺自由选举  民主改革
+promising free elections, democratic reforms--
+
+617
+00:36:45,150 --> 00:36:47,440
+你会得到美国的支持
+You'll have the support of the United States.
+
+618
+00:36:48,710 --> 00:36:52,090
+这支持包括军队和武器吗
+This support, it includes troops and weapons?
+
+619
+00:36:52,820 --> 00:36:54,380
+我们会竭尽所能
+We will do what it takes
+
+620
+00:36:54,400 --> 00:36:56,840
+让你们的政府统一全国
+to unite the country around your government.
+
+621
+00:36:59,150 --> 00:37:00,650
+但是我们必须快点行动
+But we must act quickly.
+
+622
+00:37:01,390 --> 00:37:03,740
+在你的敌人变得更强大之前
+Before your enemies gain more strength.
+
+623
+00:37:05,740 --> 00:37:06,840
+你错了
+You are wrong.
+
+624
+00:37:07,720 --> 00:37:11,230
+世界明白叙利亚真正的威胁
+The world recognizes the real danger in Syria,
+
+625
+00:37:11,230 --> 00:37:13,390
+是所谓的伊斯兰国
+the so-called Islarnic state.
+
+626
+00:37:13,400 --> 00:37:15,190
+他们一旦变强
+As they get stronger,
+
+627
+00:37:15,190 --> 00:37:17,300
+巴沙尔就看起来没那么可恶了
+Bashir no longer looks so evil.
+
+628
+00:37:17,300 --> 00:37:18,450
+世界就会改变态度
+The world will come around.
+
+629
+00:37:18,450 --> 00:37:20,890
+他们会支持我们抵抗伊斯兰国
+They will support us against Daesh.
+
+630
+00:37:23,370 --> 00:37:25,180
+如果阿萨德继续掌权
+If Assad stays in power,
+
+631
+00:37:26,440 --> 00:37:28,400
+他就得为自己的罪行负责
+he'll have to answer for his crimes.
+
+632
+00:37:28,720 --> 00:37:29,800
+什么罪行
+What crimes?
+
+633
+00:37:30,520 --> 00:37:32,790
+铁桶炸弹  化学武器
+Barrel bombs. Chemical weapons.
+
+634
+00:37:32,790 --> 00:37:33,980
+胡说八道
+Bullshit. Lies.
+
+635
+00:37:33,980 --> 00:37:35,650
+我们看到古塔区的尸体了
+We've seen the bodies in Ghouta.
+
+636
+00:37:36,190 --> 00:37:38,400
+阿萨德已经向世界承认是他的指挥官
+Assad's already told the world it was his commanders
+
+637
+00:37:38,400 --> 00:37:39,700
+使用了武器
+who fired the weapons.
+
+638
+00:37:40,310 --> 00:37:42,760
+他会毫不犹豫的送你上国际战犯法庭
+Think he'll hesitate to hand you over to the ICC?
+
+639
+00:37:45,100 --> 00:37:46,500
+他不会指责我的
+He will not accuse me.
+
+640
+00:37:47,490 --> 00:37:49,950
+我个人对这些事没有任何责任
+I am not personally responsible for any of that.
+
+641
+00:37:49,950 --> 00:37:50,490
+我相信你 
+Well, I believe you.
+
+642
+00:37:50,490 --> 00:37:52,520
+我也相信阿萨德已经向世人展示
+I also believe Assad has demonstrated
+
+643
+00:37:52,520 --> 00:37:55,260
+他为了保住自己的权力
+he will do anything, he will say anything
+
+644
+00:37:55,300 --> 00:37:57,150
+会不择手段
+to keep his grip on power.
+
+645
+00:38:02,860 --> 00:38:04,290
+将军  我们快没时间了
+General, we're out of time.
+
+646
+00:38:07,340 --> 00:38:08,770
+我知道你是爱国者
+I know you're a patriot.
+
+647
+00:38:09,430 --> 00:38:11,490
+你的人民已经受尽苦难
+Your people have suffered so much already.
+
+648
+00:38:12,790 --> 00:38:14,270
+给他们一个前进方向吧
+Show them the way forward.
+
+649
+00:38:15,210 --> 00:38:16,640
+带领他们走向光明
+Lead 'em into the light.
+
+650
+00:39:01,750 --> 00:39:02,910
+他们找到了
+They found it?
+
+651
+00:39:02,910 --> 00:39:04,120
+合作愉快
+Yes. We're good.
+
+652
+00:39:04,620 --> 00:39:05,480
+谢谢
+Thank you.
+
+653
+00:39:05,860 --> 00:39:08,580
+只有那一个备份  我发誓
+There is just that one copy. I swear.
+
+654
+00:39:08,930 --> 00:39:09,880
+我留一份是为了...
+I only kept it...
+
+655
+00:39:31,480 --> 00:39:32,480
+科赞尼
+Korzy?
+
+656
+00:39:33,920 --> 00:39:34,790
+科赞尼
+Korzy?
+
+657
+00:40:20,780 --> 00:40:22,690
+我进去  把东西放下
+I go in, I drop it off,
+
+658
+00:40:22,690 --> 00:40:24,320
+就会得到名单上的下一个名字
+I get the next name on the list.
+
+659
+00:40:24,450 --> 00:40:26,060
+那我们就等着有人来拿吗
+Then we wait for someone to pick it up?
+
+660
+00:40:26,060 --> 00:40:27,940
+我们等索尔来拿
+We wait for Saul to pick it up.
+
+661
+00:40:27,940 --> 00:40:29,840
+他一出现  我们就走
+And when he shows up, we leave.
+
+662
+00:40:30,330 --> 00:40:32,360
+你逃得越远越好
+And you get as far away from here as possible.
+
+663
+00:40:34,270 --> 00:40:35,160
+同意吗
+Agreed?
+
+664
+00:40:36,110 --> 00:40:37,000
+同意
+Agreed.
+
+665
+00:40:39,890 --> 00:40:42,030
+坐过去  我们可能要火速离开
+Slide over. We may have to move fast.
+
+666
+00:41:45,000 --> 00:41:47,550
+{\an8}你的朋友到了
+
+667
+00:43:26,080 --> 00:43:27,370
+我应该送你去医院
+I should take you to a hospital.
+
+668
+00:43:27,370 --> 00:43:28,170
+不用  我没事
+No, I'm okay.
+
+669
+00:43:28,170 --> 00:43:29,390
+你情况不妙
+You are not okay.
+
+670
+00:43:30,010 --> 00:43:31,030
+我们得停车
+We should pull over.
+
+671
+00:43:31,030 --> 00:43:32,850
+不  回去抓他
+No. Be coming back to get him.
+
+672
+00:43:33,460 --> 00:43:34,530
+那人是谁
+Who was that?
+
+673
+00:43:34,530 --> 00:43:36,580
+想杀你的人也想杀我
+Whoever wants you dead wants me dead.
+
+674
+00:43:38,420 --> 00:43:40,470
+-你得去火车站  -不
+- We have to get you to the train station. - No.
+
+675
+00:43:41,050 --> 00:43:42,090
+你的照片在信箱里
+Your photo's in the drop.
+
+676
+00:43:42,090 --> 00:43:43,280
+你还没有暴露  你可以离开
+You'll have your cover. You can go.
+
+677
+00:43:43,280 --> 00:43:44,680
+我不会扔下你
+I am not leaving you.
+
+678
+00:43:45,590 --> 00:43:46,590
+我不走
+I'm not.
+
+679
+00:43:57,450 --> 00:43:58,640
+看看后边
+Check the back.
+
+680
+00:44:01,770 --> 00:44:03,030
+有个弹洞
+There's an exit wound.
+
+681
+00:44:03,310 --> 00:44:04,320
+很好  是贯穿伤
+Good. It went through.
+
+682
+00:44:04,570 --> 00:44:05,620
+不会打中动脉
+Could've hit an artery.
+
+683
+00:44:05,620 --> 00:44:07,020
+否则我早流血流死了
+I'd have bled out by now.
+
+684
+00:44:07,020 --> 00:44:08,930
+得给你打点吗啡
+We need to get some morphine into you.
+
+685
+00:44:09,570 --> 00:44:11,570
+-架子上有个急救箱  -好的
+- There's a medical kit on the bench. - Okay.
+
+686
+00:44:28,430 --> 00:44:29,550
+奎恩  还醒着吗
+Quinn, you with me?
+
+687
+00:44:32,320 --> 00:44:33,290
+好了
+All right.
+
+688
+00:44:36,260 --> 00:44:37,420
+转过去
+Turn over.
+
+689
+00:44:38,540 --> 00:44:40,080
+好了  我要给你扎针了
+All right, I'm gonna muscle it.
+
+690
+00:44:43,500 --> 00:44:45,390
+得使劲按住这些伤口
+We need to put some pressure on these wounds.
+
+691
+00:44:47,780 --> 00:44:50,150
+好了  挺住  坐起来
+All right. Hold on. Sit up.
+
+692
+00:45:02,020 --> 00:45:03,260
+挺住  奎恩
+Hang on, Quinn.
+
+693
+00:45:20,030 --> 00:45:22,120
+我的同僚让我把这个交给你
+My colleague asked me to give you these.
+
+694
+00:45:24,660 --> 00:45:26,020
+我有个请求
+I have a request.
+
+695
+00:45:26,020 --> 00:45:26,930
+什么请求
+What is it?
+
+696
+00:45:27,430 --> 00:45:30,360
+我希望我的妻子和女儿留下来
+I'd like my wife and daughter to remain behind.
+
+697
+00:45:30,670 --> 00:45:34,470
+在欧洲生活  直到我们国家的冲突解决
+To live in Europe until the conflict in my country is resolved.
+
+698
+00:45:35,780 --> 00:45:38,360
+我敬重您对家庭的牵挂
+I admire your concern for your family.
+
+699
+00:45:38,880 --> 00:45:40,180
+但我不能允许
+But I can't allow it.
+
+700
+00:45:40,180 --> 00:45:42,760
+你独自回到叙利亚会引起警觉
+Returning to Syria without them would raise a red flag.
+
+701
+00:45:43,540 --> 00:45:45,040
+你们怎么知道我会干这事
+How do you know I'll do this?
+
+702
+00:45:45,980 --> 00:45:47,460
+我收了你们的钱
+I have your money.
+
+703
+00:45:48,000 --> 00:45:50,050
+我回到家  可以什么都不干
+When I get home, I could just do nothing.
+
+704
+00:45:50,810 --> 00:45:52,750
+是的  你可以
+Yes. You could.
+
+705
+00:45:54,140 --> 00:45:56,500
+但是我们赌你会更聪明
+But we're betting you're smarter than that.
+
+706
+00:46:20,020 --> 00:46:22,340
+他问自己家人是否能留下来
+He asked if his family could stay behind.
+
+707
+00:46:23,360 --> 00:46:24,810
+这是个好兆头
+That's a good sign.
+
+708
+00:46:25,010 --> 00:46:26,000
+是吗
+Yeah?
+
+709
+00:46:26,610 --> 00:46:27,480
+是啊
+Yeah.
+
+710
+00:46:28,700 --> 00:46:30,310
+说明他知道自己被玩残了
+It means he knows he's fucked.
+
+711
+00:46:31,930 --> 00:46:33,860
+说明他也许会乖乖合作
+It means he might just cooperate.
+
+712
+00:47:01,030 --> 00:47:02,840
+通讯录里只有一个号码
+There's only one number in the memory.
+
+713
+00:47:03,190 --> 00:47:04,590
+打过去
+Call it.
+
+714
+00:47:44,450 --> 00:47:46,080
+我的天呐
+Oh, my god.
+
